@@ -1,4 +1,4 @@
-# top-down-prototype
+# top-down-prototype for STEMist Hacks 2.0
 
 А simple top-down game to showcase the Unity Engine. 
 
@@ -6,11 +6,11 @@
 
 Here are the steps we will take:
 
-Create a scene
-Build the environment
-Add the player
-Create player animations for walking and attacking
-Add an enemy
-Create enemy animations for walking, attacking, and dying
-Implement the GameManager
-Add special effects
+- Create a scene
+- Build the environment
+- Add the player
+- Create player animations for walking and attacking
+- Add an enemy
+- Create enemy animations for walking, attacking, and dying
+- Implement the GameManager
+- Add special effects
