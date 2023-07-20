@@ -1,4 +1,4 @@
-# top-down-prototype for STEMist Hacks 2.0
+# Top-Down Action Game Prototype for STEMist Hacks 2.0
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
